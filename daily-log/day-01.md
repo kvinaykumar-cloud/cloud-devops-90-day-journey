@@ -111,6 +111,8 @@ git status
 git add daily-log/day-01.md
 git commit -m "docs(daily-log): complete day-01 dev-001, inc-001, and linux fundamentals"
 git push origin main
+```
+---
 📖 Key Concepts Learned
 Linux Filesystem Hierarchy: Understanding standard mount paths (/etc for configurations, /var/log for runtime traces).
 
