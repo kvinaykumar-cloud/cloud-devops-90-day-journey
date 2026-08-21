@@ -124,6 +124,6 @@ Issue: Navigating and listing directory contents while situated in the home dire
 Resolution: Used absolute and relative paths (cd) to position the shell directly inside the target repository before verifying repository contents with ls -la.
 
 🔗 Resources & Artifacts
-Doc/Link: daily-log/day-01.md
+Doc/Link: [daily-log/day-01.md](daily-log/day-01.md)
 
-Related Repo Path: ./daily-log/day-01.md
+Related Repo Path: [day-01.md](./daily-log/day-01.md)
