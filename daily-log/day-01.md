@@ -42,8 +42,11 @@
    - **Command:** `df -h`
    - **Output:** Displays available filesystem storage in human-readable gigabytes (GB).
    - **Explanation:** Reports mounted filesystem disk capacity, consumed space, and available space.
-
-6. **Git Version:**
+6. **Home Directory:**
+   - **Command:** `echo $HOME` (or `ls -ld ~`)
+   - **Output:** `/home/vinay`
+   - **Explanation:** Displays the absolute path to the active user's personal home directory in the Linux filesystem.
+7. **Git Version:**
    - **Command:** `git --version`
    - **Output:** `git version 2.53.0`
    - **Explanation:** Confirms Git binary installation and outputs the active client version.
